@@ -1,4 +1,4 @@
-eor=5
+row=5
 i="row"
 while i>1:
     j=rows
